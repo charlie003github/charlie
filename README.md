@@ -1,2 +1,0 @@
-# charlie
-Fundamental of Computing
